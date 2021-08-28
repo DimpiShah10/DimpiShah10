@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimpiShah10
 - 👀 I’m interested in learning programming languages that can help in Data Analysis
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning SQL,Python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dimpih10@gmail.com
 
