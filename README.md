@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DimpiShah10
+- 👋 Hi, I’m @DimpiShah
 - 👀 I’m interested in learning programming languages that can help in Data Analysis
-- 🌱 I’m currently learning SQL,Python and R
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dimpih10@gmail.com
 
 <!---
