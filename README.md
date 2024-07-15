@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DimpiShah
-- 👀 I’m interested in learning programming languages that can help in Data Analysis
-- 📫 How to reach me dimpih10@gmail.com
+- 👋 Hi, I’m Dimpi Shah
+- 👀 Curious about python programming
+- 📫 You can reach me at dimpih10@gmail.com
 
 <!---
 DimpiShah10/DimpiShah10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
